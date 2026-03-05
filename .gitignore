@@ -27,3 +27,6 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# Chat history
+chat_history.txt
